@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\minin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\minin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Block-Adventure.1795235610.00" t="ExcludeRecursive" />
+    <e p="C:\Users\minin\OneDrive - UNIVERSIDAD ANDRES BELLO\Proyectos Propios\block-adventure\block-adventure" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraManager.cs" t="Include" />
+          <e p="EnemyManager.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="PlayerManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Block-Adventure.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
